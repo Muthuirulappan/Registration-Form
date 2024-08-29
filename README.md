@@ -13,4 +13,4 @@ Validation: Basic HTML5 form validation is implemented to ensure users fill out 
 index.html: This is the main HTML file that contains the structure of the registration form.
 styles.css: This file contains the CSS styling to make the form visually appealing and responsive.
 
-Checkout Line: []
+Checkout Line: [https://muthuirulappan.github.io/Registration-Form/]
